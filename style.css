@@ -91,7 +91,6 @@ body{
         background-color: var(--green);
         color: var(--grey800);
         cursor: pointer;
-        caret-color: var(--grey900);
     }
 }
 @media screen and (max-width: 375px) {
